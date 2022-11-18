@@ -16,6 +16,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
 ### :man_technologist: About Me :
@@ -27,6 +28,7 @@ I am a Coding enthusiast & love to do things easily (lazily) with code, <img src
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles & watch lots of Anime | Manga.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-soni-4b9a50245/)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
