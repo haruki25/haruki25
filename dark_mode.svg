@@ -65,8 +65,8 @@ text, tspan {white-space: pre;}
 <tspan x="800" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">7 </tspan>
 <tspan x="800" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="800" y="470">11</tspan>
-<tspan x="800" y="490" class="keyColor">7 </tspan>: <tspan class="valueColor">7 </tspan> {<tspan class="keyColor">11</tspan>: <tspan class="valueColor">11</tspan>}  | <tspan class="keyColor">72     </tspan>: <tspan class="valueColor">70     </tspan>| <tspan class="keyColor">4</tspan>: <tspan class="valueColor">4</tspan>
-<tspan x="800" y="510" class="keyColor">13  </tspan>: <tspan class="valueColor">13  </tspan>| <tspan class="keyColor">127,090</tspan>: <tspan class="valueColor">127,840++</tspan> (<tspan class="addColor">750--</tspan>, <tspan class="delColor">737--</tspan>)
+<tspan x="800" y="490" class="keyColor">7 </tspan>: <tspan class="valueColor">7 </tspan> {<tspan class="keyColor">11</tspan>: <tspan class="valueColor">11</tspan>}  | <tspan class="keyColor">73     </tspan>: <tspan class="valueColor">70     </tspan>| <tspan class="keyColor">4</tspan>: <tspan class="valueColor">4</tspan>
+<tspan x="800" y="510" class="keyColor">13  </tspan>: <tspan class="valueColor">13  </tspan>| <tspan class="keyColor">127,088</tspan>: <tspan class="valueColor">127,844++</tspan> (<tspan class="addColor">756--</tspan>, <tspan class="delColor">737--</tspan>)
 </text>
 
 </svg>
